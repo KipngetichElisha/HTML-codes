@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<head><style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111111;
+}
+</style>
+</head>
+<body>
+
+
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="#content">Content</a></li>
+  <li><a href="#CV">CV</a></li>
+  <li><a href="#utility">Utility</a></li>
+</ul>
+<body style="background-color:powderblue;">
+    <title>Home</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        #header {
+            background-color: #f0f0f0;
+            padding: 20px;
+            border-bottom: 1px solid #ccc;
+        }
+        #profile-picture {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            margin-right: 20px;
+            margin-bottom: 20px;
+        }
+        #about {
+            padding: 20px;
+            text-align: left;
+        }
+        #contact {
+            padding: 20px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <div id="header">
+    <hi style="color:blue;"> WELCOME!!</h1>
+        <h1>KIPNGETICH ELISHA</h1>
+        <img id="profile-picture" src="your-profile-picture-url" alt="Profile Picture">
+    </div>
+  <hi style="color:blue;"> About</h1>  
+ <p style="color:black;">Elisha is a highly analytical and detail-oriented individual<br> with a passion for statistics and data analysis.<br> He is driven by a desire to use his skills <br>to make a positive impact on society,<br> particularly through volunteerism,<br> mentorship, leadership, and community change.<br> He is a natural problem-solver <br>and enjoys taking on complex challenges,<br> using his expertise to identify patterns <br>and trends that can help inform effective decision-making.<br></p>
+ 
+ <ul>
+  <li><a href="Phone no:+254 741402632 "> Phone no: +254 741402632</a></li>
+  <li><a href="E-mail: kipngetichelisha0@gmail.com">E-mail: kipngetichelisha0@gmail.com</a></li>
+  <li><a href="X:@mr.biwot">X: @mr.biwot</a></li>
+  <li><a href="Linkedin:@mr.biwot">Linkedin:@mr.biwot</a></li>
+</ul>
